@@ -117,11 +117,12 @@ The dashboard is divided into two pages:
 
 ### Executive Dashboard
 
-*(Add your Executive Dashboard screenshot here after uploading it to GitHub.)*
+<img width="1398" height="789" alt="Executive dashboard" src="https://github.com/user-attachments/assets/b1fadff9-1f0a-4669-b065-270324fcad38" />
 
 ### Salary & Skills Analysis
 
-*(Add your Salary & Skills Analysis screenshot here after uploading it to GitHub.)*
+<img width="1404" height="790" alt="Salary   Skills Analysis" src="https://github.com/user-attachments/assets/eaca0051-b7d2-4e02-bbb7-79dd4769bb4f" />
+
 
 ---
 
